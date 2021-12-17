@@ -42,3 +42,5 @@ node_modules
 sites/README.txt
 sites/all/modules/README.txt
 sites/all/themes/README.txt
+
+*.sql
