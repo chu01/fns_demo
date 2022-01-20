@@ -786,4 +786,4 @@ $databases = array (
   ),
 );
 
-$settings['config_sync_directory'] = 'sites/default/files/config_In8pNzDg9QVc4uxhXxKm_flRARIPOm7uK78668M86t1S0jU1yusYVpKxQBG7EIp3GRsxqS4W2w/sync';
+// $settings['config_sync_directory'] = 'sites/default/files/config_In8pNzDg9QVc4uxhXxKm_flRARIPOm7uK78668M86t1S0jU1yusYVpKxQBG7EIp3GRsxqS4W2w/sync';
